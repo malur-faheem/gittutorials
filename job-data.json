@@ -1,0 +1,35 @@
+{
+    "featuredJobs": [
+      {
+        "id": 1,
+        "title": "Software Engineer",
+        "company": "ABC Tech",
+        "location": "New York, NY",
+        "postedOn": "2023-05-14",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod tempus neque id maximus. Nulla a tincidunt libero. Sed ultrices luctus justo a congue.",
+        "requirements": "1. Bachelor's degree in Computer Science\n2. Proficient in Java and JavaScript\n3. Experience with web development frameworks\n4. Strong problem-solving skills",
+        "salary": "$80,000 - $100,000 per year"
+      },
+      {
+        "id": 2,
+        "title": "Marketing Manager",
+        "company": "XYZ Marketing Agency",
+        "location": "Los Angeles, CA",
+        "postedOn": "2023-05-12",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod tempus neque id maximus. Nulla a tincidunt libero. Sed ultrices luctus justo a congue.",
+        "requirements": "1. Bachelor's degree in Marketing or related field\n2. Proven experience in digital marketing\n3. Strong analytical and strategic thinking skills\n4. Excellent communication and leadership abilities",
+        "salary": "$70,000 - $90,000 per year"
+      },
+      {
+        "id": 3,
+        "title": "Graphic Designer",
+        "company": "Design Co.",
+        "location": "San Francisco, CA",
+        "postedOn": "2023-05-10",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod tempus neque id maximus. Nulla a tincidunt libero. Sed ultrices luctus justo a congue.",
+        "requirements": "1. Bachelor's degree in Graphic Design or related field\n2. Proficient in Adobe Creative Suite\n3. Strong portfolio showcasing design skills\n4. Attention to detail and creativity",
+        "salary": "$50,000 - $70,000 per year"
+      }
+    ]
+  }
+  
